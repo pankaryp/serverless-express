@@ -2,7 +2,7 @@
 
 ![code sample](https://img.shields.io/badge/code-sample-yellowgreen.svg?style=flat-square)
 
-> Serverless template with express and [serverless] (https://serverless.com/).
+> Serverless template with express and [serverless](https://serverless.com/).
 
 ## License
 
